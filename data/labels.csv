@@ -1,9 +1,11 @@
 ClassId,Name
+3,Speed limit (40km/h)
 5,Speed limit (60km/h)
 11,Dont Go Left
 16,No Car
 24,Go Right
 26,keep Right
 28,watch out for cars
+30,Bicycles crossing
 43,Go right or straight
 54,No stopping
